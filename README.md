@@ -1,17 +1,26 @@
+# TODO APP
+
 # I developed a todo application with react and redux.
-## npm install @reduxjs/toolkit
+### `npm i @reduxjs/toolkit`
 # i used axios to get the data.
-## npm i axios
+### `npm i axios`
 
-# In the application I developed, the user will be able to add his own tasks, if he has fulfilled this task, he will be able to tick the box indicating that he has fulfilled that task, or delete the task.
+## Used Technologies
++ HTML
++ CSS
++ Javascript
++ React.Js
++ Redux
 
-# I added an information section so that the user can dynamically see the number of active tasks at the bottom.
+ In the application I developed, the user will be able to add his own tasks, if he has fulfilled this task, he will be able to tick the box indicating that he has fulfilled that task, or delete the task.
 
-# I also added "All","Active","Complated" and "Clear completed" buttons at the bottom, so my application became more useful.
+ I added an information section so that the user can dynamically see the number of active tasks at the bottom.
 
-# For convenience, I designed a system that will see the functions of the last button marked when the user logs into the system again.
+ I also added "All","Active","Complated" and "Clear completed" buttons at the bottom, so my application became more useful.
 
-here are the images from my app:
+ For convenience, I designed a system that will see the functions of the last button marked when the user logs into the system again.
+
+# here are the images from my app:
 
 ![img](https://i.hizliresim.com/srjto75.png?raw=true "Title")
 
