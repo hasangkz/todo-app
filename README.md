@@ -13,7 +13,11 @@
 + Redux
 
 ## About my app
+
  In the application I developed, the user will be able to add his own tasks, if he has fulfilled this task, he will be able to tick the box indicating that he has fulfilled that task, or delete the task.
+
+ I used "Thunk" technology for middleware in my application.
+ 
 
  I added an information section so that the user can dynamically see the number of active tasks at the bottom.
 
